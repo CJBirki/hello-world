@@ -1,2 +1,2 @@
-Hello!
+Hello
 Here we go again
